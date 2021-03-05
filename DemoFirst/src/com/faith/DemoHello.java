@@ -5,6 +5,7 @@ import java.util.*;
 public class DemoHello {
 	public static void main(String[] args) {
 
+		//Comments added 
 		String customerName = "";
 		String brand = "";
 		double processorSpeedInGHz = 0.0; // or float
